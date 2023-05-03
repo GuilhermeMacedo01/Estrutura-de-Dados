@@ -50,7 +50,7 @@ struct nota_do_aluno{
     /* Recebendo a media total*/
     retorno = media(aluno.nota_G1,aluno.nota_G2,aluno.nota_G3);
 
-    /* Repetição do codigo*/
+    /* RepetiÃ§Ã£o do codigo*/
     printf("\n\n Deseja testar outras notas (Digite (1) para repetir) :    ");
     scanf("%d\n",&repetir);
     }
